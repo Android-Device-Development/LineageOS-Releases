@@ -18,6 +18,10 @@ Features:
 
 - Support for DiracSound FX 
 
+Downloads:
+
+- [Advanced LineageOS 16.0](https://github.com/davidtrpcevski/Advanced-LineageOS-Releases/releases)
+
 Credits:
 
 - Warabhishek for the initial trees
