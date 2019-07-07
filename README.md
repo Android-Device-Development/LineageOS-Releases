@@ -6,18 +6,6 @@ If you have any question or suffering from an issue post it in the issues tab on
 
 The builds will be released as I have free time to mess around, but it is guaranteed that I will upload a build right after a new security patch is merged.
 
-Features:
-
-- Screenshot QS Tile
-
-- Sound QS Tile
-
-- Toast when a screenshot is deleted
-
-- Android Q activity animations 
-
-- Support for DiracSound FX 
-
 Downloads:
 
 - [Advanced LineageOS 16.0](https://github.com/davidtrpcevski/Advanced-LineageOS-Releases/releases)
