@@ -20,11 +20,17 @@ Features:
 
 Credits:
 
+- Warabhishek for the initial trees
+
 - Zeelog for Device and Vendor trees
 
 - KrasCGQ for Kernel source
 
 - LineageOS for the ROM source
+
+- Nichcream for his phenomenal work on land
+
+- HighwayStar and mikeNG for their phenomenal work on nubia and kuntao 
 
 Example of an issue report:
 >
@@ -37,15 +43,15 @@ Example of an issue report:
 >Firmware: fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip
 >
 >
->Fingerprint
+>Fingerprint:
 >
 >[_] Goodix [*] FPC
 >
->Used filesystems
+>Used filesystems:
 >
 >[*] ext4 [ ] f2fs
 >
->RAM Variant
+>RAM Variant:
 >
 >[_] 2GB [*] 3GB [ ] 4GB
 >
