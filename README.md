@@ -34,7 +34,11 @@ Credits:
 
 - Nichcream for his phenomenal work on land
 
-- HighwayStar and mikeNG for their phenomenal work on nubia and kuntao 
+- HighwayStar and mikeNG for their work on nubia and kuntao 
+
+- Razziell for his work on markw
+
+- Hikari-no-Tenshi for his work on mido
 
 Example of an issue report:
 >
