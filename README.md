@@ -1,6 +1,6 @@
 # Advanced-LineageOS-Releases
 
-These are personal releases of LineageOS 16.0 and I am just posting them here. I have included few things which I need and they are mentioned below which differ from the original LineageOS 16.0 and i.e. it is called Advanced LineageOS 16.0.
+These are personal releases of LineageOS 16.0 for Xiaomi Redmi Note 4 and I am just posting them here. I have included few things which I need and they are mentioned below which differ from the original LineageOS 16.0 and i.e. it is called Advanced LineageOS 16.0.
 
 If you have any question or suffering from an issue post it in the issues tab on GitHub. I would need logcat to check what's wrong otherwise I wouldn't know. 
 
@@ -27,6 +27,8 @@ Credits:
 - Razziell for his work on markw
 
 - Hikari-no-Tenshi for his work on mido
+
+- Many other ROM developer team members that helped into bringing this project out
 
 Example of an issue report:
 >
