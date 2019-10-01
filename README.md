@@ -8,6 +8,8 @@ Downloads:
 
 - [Advanced LineageOS 16.0](https://github.com/davidtrpcevski/Advanced-LineageOS-Releases/releases)
 
+[Support me on Patreon!](https://www.patreon.com/lilblinx)
+
 Credits:
 
 - Warabhishek for the initial trees
