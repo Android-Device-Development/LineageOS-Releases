@@ -8,7 +8,7 @@ Downloads:
 
 - [Advanced LineageOS 16.0](https://github.com/davidtrpcevski/Advanced-LineageOS-Releases/releases)
 
-Since this is quite time consuming process and doing it quite often, I would be thankful and it would be generous of you if you be my Patreon!
+Since this is quite time consuming process and doing it quite often, if you enjoy it, I would be thankful and it would be generous of you if you be my Patreon!
 
 [Support me on Patreon!](https://www.patreon.com/lilblinx)
 
