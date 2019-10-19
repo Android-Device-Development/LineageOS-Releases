@@ -1,6 +1,14 @@
 # Advanced-LineageOS-Releases
 
-These are personal releases of LineageOS 16.0 for Xiaomi Redmi Note 4 and I am just posting them here. I have included few things which I need and they are mentioned below which differ from the original LineageOS 16.0 and i.e. it is called Advanced LineageOS 16.0. 
+These are personal releases of LineageOS 16.0 for Xiaomi Redmi Note 4 and I am just posting them here. 
+
+There are two versions. 
+
+**CLEAN** 
+Nothing added at all, pure stock LineageOS 16.0 experience
+
+**ADVANCED**
+I have included few things which I need that differ from the original LineageOS 16.0, like optimizations on the framework part, screenshot and sound toggle etc. so that's why it is called Advanced LineageOS 16.0. 
 
 The builds will be released as I have free time to mess around, but it is guaranteed that I will upload a build right after a new security patch is merged.
 
