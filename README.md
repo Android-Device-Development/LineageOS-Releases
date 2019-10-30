@@ -20,13 +20,9 @@ Downloads:
 
 Since this is quite time consuming process and I'm doing it quite often, so if you enjoy it, I would be thankful and grateful if you donate a cup of coffee!
 
-- [Support me on Patreon!](https://www.patreon.com/lilblinx)
-
-- [Support me on Skrill!](https://www.skrill.com/en/)
-
 - E-Mail: trpcevski.david@gmail.com
 
-- Any other support option in the Sponsor button above
+- Support me in your preferable option in the Sponsor button above
 
 Credits:
 
