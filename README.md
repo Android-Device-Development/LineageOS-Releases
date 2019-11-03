@@ -1,4 +1,4 @@
-# Advanced-LineageOS-Releases
+# LineageOS Releases
 
 These are personal releases of LineageOS 16.0 for Xiaomi Redmi Note 4.
 
