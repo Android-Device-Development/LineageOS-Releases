@@ -4,7 +4,7 @@ FAQ:
 
 1. Why are you building LineageOS 16.0 when there is an official support?
 
-- I'd rather flash MIUI than to use those builds with those trees.
+- They are so bad. I'd rather flash MIUI than to use those builds with those trees.
 
 2. What's different from official builds?
 
