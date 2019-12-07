@@ -80,11 +80,17 @@ This repository contains personal builds of LineageOS 16.0 for Xiaomi Redmi Note
 
    - I personally don't recommend to dirty flash between builds, but there are reports from users that it worked for them. I am not responsible for any data loss or malfunction if you go with this route.
 
-7. Why did you close your threads at XDA and leave?
+7. Please, can you include feature XYZ?
+
+   - No, and I will never include something I don't use.
+
+8. Why did you close your threads at XDA and leave?
 
    - Because of their greedy behaviour at making money, slow load and reponse or not loading at all and the arrogant interaction between the staff and users.
+   
+   - More info can be found [here](https://medium.com/@mazdarider23/anti-xda-stance-16a0e1867f5b)
 
-8. I like your builds, how can I support you?
+9. I like your builds, how can I support you?
 
    - First of all, thank you so much! Yes, you can support me by donating to the PayPal link below.
 
