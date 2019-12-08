@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1575636594,
-      "filename": "lineage-16.0-20191206-mido-signed.zip",
-      "id": "0a8a4918f5c3001264e5dc394a568ebe",
+      "datetime": 1575764593,
+      "filename": "lineage-16.0-20191208-mido-signed.zip",
+      "id": "d45930dda543b094342ea5802c2537b7",
       "romtype": "UNOFFICIAL",
-      "size": 633633135,
-      "url": "https://github.com/davidtrpcevski/LineageOS-Releases/releases/download/8.0/lineage-16.0-20191206-mido-signed.zip",
+      "size": 633614513,
+      "url": "https://github.com/davidtrpcevski/LineageOS-Releases/releases/download/9.0/lineage-16.0-20191208-mido-signed.zip",
       "version": "16.0"
     }
   ]
