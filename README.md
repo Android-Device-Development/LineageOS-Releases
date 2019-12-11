@@ -82,12 +82,11 @@ This repository contains personal builds of LineageOS 16.0 for Xiaomi Redmi Note
 
 7. Please, can you include feature XYZ?
 
-   - No, and I will never include something I don't use.
+   - No and I will never include something I don't use. Please don't message me or create issues that will lead to a feature requests. They will be ignored!
 
 8. Why did you close your threads at XDA and leave?
 
    - Because of their greedy behaviour at making money, slow load and reponse or not loading at all and the arrogant interaction between the staff and users.
-   
    - More info can be found [here](https://medium.com/@mazdarider23/anti-xda-stance-16a0e1867f5b)
 
 9. I like your builds, how can I support you?
@@ -99,6 +98,10 @@ This repository contains personal builds of LineageOS 16.0 for Xiaomi Redmi Note
 - [PayPal Donation Link](https://www.paypal.me/CiggyDevs)
 
 - [Be my Patreon](https://www.patreon.com/lilblinx)
+
+## Social
+
+- Feel free to join the Telegram group here: [LineageOS Releases](https://t.me/losreleases)
 
 ## Sources
 
