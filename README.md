@@ -94,7 +94,7 @@ This repository contains personal builds of LineageOS for Xiaomi Redmi Note 4X (
 ## Social
 
 - Feel free to join the Telegram group here: [LineageOS Releases](https://t.me/losreleases)
-- Check out the thread on XDA here: [[ROM] [9.0, 10.0] [OTA] LilBlinx's LineageOS Releases](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-advanced-lineageos-14-1-t3775023)
+- Check out the thread on XDA here: [LilBlinx's LineageOS Releases](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-advanced-lineageos-14-1-t3775023)
 
 ## Sources
 
