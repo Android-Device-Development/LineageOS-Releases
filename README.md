@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains personal builds of LineageOS 16.0 for Xiaomi Redmi Note 4X (mido).
+This repository contains personal builds of LineageOS for Xiaomi Redmi Note 4X (mido).
 
 ## Requirements
 
@@ -14,7 +14,7 @@ This repository contains personal builds of LineageOS 16.0 for Xiaomi Redmi Note
 
 ## Downloads
 
-- [LineageOS 16.0](https://github.com/davidtrpcevski/LineageOS-Releases/releases)
+- [LineageOS Releases](https://github.com/davidtrpcevski/LineageOS-Releases/releases)
 
 ## Installation
 
@@ -56,40 +56,32 @@ This repository contains personal builds of LineageOS 16.0 for Xiaomi Redmi Note
 
 ## FAQ
 
-1. Why are you building LineageOS 16.0 when there is an official support?
+1. What's different from official builds?
 
-   - I'd rather flash MIUI than to use those builds with those trees.
+   - I'm adding few things here and there that I need and which you can check in the changelogs. 
+   - The builds are built with different and much better and optimized device, vendor and kernel trees. 
 
-2. What's different from official builds?
-
-   - I'm adding few things here and there that I need and which you can check in the changelogs and they are available my GitHub repos.
-
-3. Does it support Over-the-Air updates?
+2. Does it support Over-the-Air updates?
 
    - Yes!
 
-4. Will your builds pass the root check, CTS and won't have problems with banking apps?
+3. Will your builds pass the root check, CTS and won't have problems with banking apps?
 
    - Yes, the builds are signed with personal keys and are using release-keys for build tag!
 
-5. Awesome, what can I do to switch to your builds?
+4. Awesome, what can I do to switch to your builds?
 
    - If coming from other ROM, back up your data and clean flash the build. Then just sit and enjoy!
 
-6. Can I dirty flash these builds, i.e. not wiping my data?
+5. Can I dirty flash these builds, i.e. not wiping my data?
 
    - I personally don't recommend to dirty flash between builds, but there are reports from users that it worked for them. I am not responsible for any data loss or malfunction if you go with this route.
 
-7. Please, can you include feature XYZ?
+6. Please, can you include feature XYZ?
 
    - No and I will never include something I don't use. Please don't message me or create issues that will lead to a feature requests. They will be ignored!
 
-8. Why did you close your threads at XDA and leave?
-
-   - Because of their greedy behaviour at making money, slow load and reponse or not loading at all and the arrogant interaction between the staff and users.
-   - More info can be found [here](https://medium.com/@mazdarider23/anti-xda-stance-16a0e1867f5b)
-
-9. I like your builds, how can I support you?
+7. I like your builds, how can I support you?
 
    - First of all, thank you so much! Yes, you can support me by donating to the PayPal link below.
 
