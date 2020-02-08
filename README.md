@@ -59,7 +59,7 @@ This repository contains personal builds of LineageOS for Xiaomi Redmi Note 4X (
 1. What's different from official builds?
 
    - I'm adding few things here and there that I need and which you can check in the changelogs. 
-   - The builds are built with different and much better and optimized device, vendor and kernel trees. 
+   - The builds are built with different and much better optimized device, vendor and kernel trees. 
 
 2. Does it support Over-the-Air updates?
 
@@ -94,6 +94,7 @@ This repository contains personal builds of LineageOS for Xiaomi Redmi Note 4X (
 ## Social
 
 - Feel free to join the Telegram group here: [LineageOS Releases](https://t.me/losreleases)
+- Check out the thread on XDA here: [[ROM] [9.0, 10.0] [OTA] LilBlinx's LineageOS Releases](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-advanced-lineageos-14-1-t3775023)
 
 ## Sources
 
