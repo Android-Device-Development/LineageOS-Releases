@@ -106,10 +106,10 @@ This repository contains personal builds of LineageOS for Xiaomi Redmi Note 4X (
 
 ## Credits
 
-- Warabhishek for the initial trees
+- Warabhishek for initial trees
 
-- Zeelog for Device and Vendor trees
+- ZeeLog for Device and Vendor trees [Donate to Zeelog](https://www.paypal.me/zeelogkang)
 
-- KrasCGQ for Kernel source
+- KrasCGQ for Kernel source [Donate to KrasCGQ](https://www.paypal.me/krasCGQ)
 
-- LineageOS for the ROM source
+- LineageOS for the ROM source [Donate to LineageOS](https://www.paypal.me/LineageOS)
