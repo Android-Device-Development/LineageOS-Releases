@@ -89,6 +89,8 @@ This repository contains personal builds of LineageOS for Xiaomi Redmi Note 4X (
 
 - [PayPal Donation Link](https://www.paypal.me/CiggyDevs)
 
+NOTE: It is my good friend of mine's account who can transfer the founds to me from another country. I did it in that way because PayPal has several restrictions in Macedonia and that is the only solution.
+
 - [Be my Patreon](https://www.patreon.com/lilblinx)
 
 ## Social
