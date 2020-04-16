@@ -93,11 +93,6 @@ NOTE: It is my good friend of mine's account who can transfer the founds to me f
 
 - [Be my Patreon](https://www.patreon.com/lilblinx)
 
-## Social
-
-- Feel free to join the Telegram group here: [LineageOS Releases](https://t.me/losreleases)
-- Check out the thread on XDA here: [LilBlinx's LineageOS Releases](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-advanced-lineageos-14-1-t3775023)
-
 ## Sources
 
 - [Kernel Tree](https://github.com/davidtrpcevski/kernel_xiaomi_msm8953)
