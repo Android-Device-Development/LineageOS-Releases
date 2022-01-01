@@ -10,10 +10,10 @@ This repository contains personal builds of LineageOS for Xiaomi Poco F3 (alioth
 
 ## Sources
 
-- [Kernel Tree](https://github.com/davidtrpcevski/kernel_xiaomi_sm8250)
+- [Kernel Tree](https://github.com/Android-Device-Development/kernel_xiaomi_sm8250)
 
-- [Device Tree](https://github.com/davidtrpcevski/android_device_xiaomi_alioth)
+- [Device Tree](https://github.com/Android-Device-Development/android_device_xiaomi_alioth)
 
-- [Device Common Tree](https://github.com/davidtrpcevski/android_device_xiaomi_sm8250-common)
+- [Device Common Tree](https://github.com/Android-Device-Development/android_device_xiaomi_sm8250-common)
 
-- [Vendor Tree](https://github.com/davidtrpcevski/proprietary_vendor_xiaomi)
+- [Vendor Tree](https://github.com/Android-Device-Development/proprietary_vendor_xiaomi)
