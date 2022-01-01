@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1641001860,
+      "datetime": 1641059399,
       "filename": "lineage-18.1-20220101-alioth-signed.zip",
-      "id": "d41d8cd98f00b204e9800998ecf8427e",
+      "id": "573758787ea93b335ef2b1fcc8248b14",
       "romtype": "UNOFFICIAL",
-      "size": 0,
+      "size": 1025436353,
       "url": "https://github.com/Android-Device-Development/LineageOS-Releases/releases/download/17.0/lineage-18.1-20220101-alioth-signed.zip",
       "version": "18.1"
     }
