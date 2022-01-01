@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains personal builds of LineageOS for Xiaomi Poco F3 (alioth). They are almost indentical to the official nightlies except it contains SafetyNet spoofing and few features that I use.
+This repository contains personal builds of LineageOS for Xiaomi Poco F3 (alioth). They are almost identical to the official nightlies except it contains SafetyNet spoofing and few features that I use.
 
 ## Features
 
