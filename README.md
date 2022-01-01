@@ -4,6 +4,14 @@
 
 This repository contains personal builds of LineageOS for Xiaomi Poco F3 (alioth).
 
+## Features
+
+- Full SafetyNet spoof
+- Screenshot QS tile
+- Sound toggle QS tile
+- Reboot QS tile
+- OTA updates
+
 ## Downloads
 
 - [LineageOS Releases](https://github.com/davidtrpcevski/LineageOS-Releases/releases)
